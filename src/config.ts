@@ -2,9 +2,9 @@ import type { PostHideElements } from '~/content/config';
 
 export const Site = 'https://astro-blog-zozo.pages.dev';
 export const SiteLanguage = 'zh';
-export const SiteTitle = '无尽光芒';
-export const SiteDescription = '踏歌长行，梦想永在';
-export const FooterDescription = '肆意闪耀';
+export const SiteTitle = '青萍之末';
+export const SiteDescription = '风起于青萍之末';
+export const FooterDescription = '屈身守分,以待天时';
 export const AdminName = 'Ladit';
 export const PageSize = 15;
 
