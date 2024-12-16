@@ -1,37 +1,12 @@
 ---
-slug: my-theme-preview
-title: Theme Preview with a so long long long long title~
-description: What do they got in there? King Kong? You're a very talented young man, with your own clever thoughts and ideas. Do you need a manager? I was part of something special. Did he just throw my cat out of the window? Do you have any idea how long it takes those cups to decompose.
-image: ../attachments/100.jpg
-date: 2031-03-31T23:30:47+08:00
-lastmod: 2024-03-01T23:30:47+08:00
-hidden: false
+title: MarkDown使用手册
+date: 2024-12-16T20:37:00+08:00
 tags:
-  - sample post
-  - demo
-  - theme
-  - apple
-  - banana
-  - cherry
-  - ice-cream
-  - chocolate
-  - cake
-  - cookie
-  - donut
-  - egg
-  - fish
-  - grape
-  - honey
-  - ice
-  - jam
-  - kiwi
-  - lemon
-  - mango
-  - nut
-  - orange
+  - 中文
+  - MarkDown
 ---
 
-# Headings
+# 标题
 
 ```markdown
 # H1
@@ -61,13 +36,14 @@ tags:
 
 ###### H6
 
-# Paragraphs
+
+# 段落
 
 ```markdown
-This is a paragraph. // [!code --]
-I am still part of the paragraph. // [!code ++]
+这是一个段落. // [!code --]
+这里仍然是一个段落. // [!code ++]
 
-New paragraph.
+新的段落.
 ```
 
 This is a paragraph.
@@ -75,7 +51,7 @@ I am still part of the paragraph.
 
 New paragraph.
 
-# long paragraph
+# 长段落
 
 ```markdown
 Hey, you know how I'm, like, always trying to save the planet? Here's my chance. Must go faster... go, go, go, go, go! Jaguar shark! So tell me - does it really exist? Forget the fat lady! You're obsessed with the fat lady! Drive us out of here! I was part of something special.
@@ -87,39 +63,31 @@ Must go faster... go, go, go, go, go! This thing comes fully loaded. AM/FM radio
 Yeah, but John, if The Pirates of the Caribbean breaks down, the pirates don’t eat the tourists. Is this my espresso machine? Wh-what is-h-how did you get my espresso machine? This thing comes fully loaded. AM/FM radio, reclining bucket seats, and... power windows.
 ```
 
-Hey, you know how I'm, like, always trying to save the planet? Here's my chance. Must go faster... go, go, go, go, go! Jaguar shark! So tell me - does it really exist? Forget the fat lady! You're obsessed with the fat lady! Drive us out of here! I was part of something special.
-
-My dad once told me, laugh and the world laughs with you, Cry, and I'll give you something to cry about you little bastard! We gotta burn the rain forest, dump toxic waste, pollute the air, and rip up the OZONE! 'Cause maybe if we screw up this planet enough, they won't want it anymore!
-
-Must go faster... go, go, go, go, go! This thing comes fully loaded. AM/FM radio, reclining bucket seats, and... power windows. Must go faster... go, go, go, go, go! Yeah, but John, if The Pirates of the Caribbean breaks down, the pirates don’t eat the tourists.
-
-Yeah, but John, if The Pirates of the Caribbean breaks down, the pirates don’t eat the tourists. Is this my espresso machine? Wh-what is-h-how did you get my espresso machine? This thing comes fully loaded. AM/FM radio, reclining bucket seats, and... power windows.
-
-# Inline code
+# 行内代码
 
 This is `Inline code`.
 
-# Image
+# 图片
 
 ```markdown
-Web Image
+网络图片
 
 ![Web Image](https://i.loli.net/2019/04/13/5cb1d33cf0ee6.jpg)
 
-Local Image
+本地图片
 
 ![Local Image](../attachments/100.jpg)
 ```
 
-Web Image
+网络图片
 
 ![Web Image](https://i.loli.net/2019/04/13/5cb1d33cf0ee6.jpg)
 
-Local Image
+本地图片
 
 ![Local Image](../attachments/100.jpg)
 
-# Block Quotes
+# 高亮块
 
 ```markdown
 > This is a block quote
@@ -127,7 +95,7 @@ Local Image
 
 > This is a block quote
 
-# Code Blocks
+# 代码块
 
 ````markdown
 ```javascript
@@ -174,7 +142,7 @@ func main() {
 }
 ```
 
-# Tables
+# 表格
 
 ```markdown
 | Colors     |     Fruits      |         Vegetable |
@@ -190,9 +158,9 @@ func main() {
 | ~~Orange~~ |     Oranges     |        **Carrot** |
 | Green      | ~~**_Pears_**~~ |           Spinach |
 
-# List Types
+# 列表
 
-#### Ordered List
+#### 有序列表
 
 ```markdown
 1. First item
@@ -204,7 +172,7 @@ func main() {
 2. Second item
 3. Third item
 
-#### Unordered List
+#### 无序列表
 
 ```markdown
 - First item
@@ -216,7 +184,7 @@ func main() {
 - Second item
 - Third item
 
-# Math
+# 数学公式
 
 ```tex
 $$
@@ -242,10 +210,24 @@ $$
 When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
-#### Emoji
+#### 表情
 
-This is a test for emoji.
+这里是一些简单的🌰子.
 :smile:
 :see_no_evil:
 :smile_cat:
 :watermelon:
+
+# 分割线
+
+ 1. 短划线（---）
+
+    ---
+
+ 2. 星号（***）
+    ***
+    ***
+ 3. 下划线（___）
+    ___
+    ___
+    ___

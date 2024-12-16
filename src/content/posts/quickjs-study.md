@@ -4,6 +4,8 @@ date: 2023-06-26T14:26:00+08:00
 tags:
   - quickjs
   - javascript
+  - compiler
+  - v8
 ---
 
 ## 1. quickjs 介绍
