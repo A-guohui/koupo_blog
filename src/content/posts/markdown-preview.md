@@ -2,7 +2,6 @@
 title: MarkDown使用手册
 date: 2024-12-16T20:37:00+08:00
 tags:
-  - 中文
   - MarkDown
 ---
 

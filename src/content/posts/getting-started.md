@@ -3,8 +3,7 @@ title: Getting Started🚀
 description: How to use this blog template✨
 date: 2024-12-03T00:00:00+08:00
 tags:
-  - sample post
-  - theme
+  - README
 ---
 
 ## Getting Started
