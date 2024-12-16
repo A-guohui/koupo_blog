@@ -19,3 +19,4 @@
 ## vercel 部署问题
 
  - github email 与 vercel 中注册的email保持一致
+ - 免费的部署需要将仓库改为 public 
