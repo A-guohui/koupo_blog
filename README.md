@@ -15,3 +15,7 @@
   ```bash
     bun dev
   ```
+
+## vercel 部署问题
+
+ - github email 与 vercel 中注册的email保持一致
