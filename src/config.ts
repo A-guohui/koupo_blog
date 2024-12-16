@@ -1,6 +1,6 @@
 import type { PostHideElements } from '~/content/config';
 
-export const Site = 'koupo-blog.vercel.app';
+export const Site = 'https://koupo-blog.vercel.app/';
 export const SiteLanguage = 'zh';
 export const SiteTitle = '青萍之末';
 export const SiteDescription = '风起于青萍之末';
