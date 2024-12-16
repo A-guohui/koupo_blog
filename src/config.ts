@@ -5,13 +5,13 @@ export const SiteLanguage = 'zh';
 export const SiteTitle = '青萍之末';
 export const SiteDescription = '风起于青萍之末';
 export const FooterDescription = '屈身守分,以待天时';
-export const AdminName = 'Ladit';
+export const AdminName = 'koupo';
 export const PageSize = 15;
 
 // socialPlatform => userName
 // check components/Header.astro socialConfig for more info
 export const Socials: Record<string, Record<string, string>> = {
-	mail: { url: 'mailto:i@ladit.me' },
+	mail: { url: 'nwuagh@163.com' },
 	github: { url: 'https://github.com/ladit/astro-blog-zozo' },
 	x: { url: 'https://x.com/userName' },
 	mastodon: { url: 'https://mastodon.social/@userName' },
