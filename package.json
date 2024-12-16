@@ -30,6 +30,7 @@
 		"@playform/compress": "^0.1.6",
 		"@shikijs/transformers": "^1.22.2",
 		"@tailwindcss/typography": "^0.5.15",
+		"@vercel/speed-insights": "^1.1.0",
 		"astro": "^4.16.12",
 		"astro-icon": "^1.1.2",
 		"astro-pagefind": "^1.6.0",
