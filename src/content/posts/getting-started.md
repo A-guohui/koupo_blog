@@ -10,11 +10,7 @@ tags:
 
 ## Getting Started
 
-Download the [codebase](https://github.com/ladit/astro-blog-zozo) first. [Bun](https://bun.sh) is recommended for this project.
-
 ```shell
-# let bun to create a local repo using this template
-bun create ladit/astro-blog-zozo
 bun install
 ```
 
